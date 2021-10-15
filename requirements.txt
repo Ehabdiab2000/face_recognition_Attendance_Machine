@@ -1,0 +1,14 @@
+tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy==1.4.1
+
+requests
+twilio
+PyQt5
+pyserial
+playsound
+pytesseract
