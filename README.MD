@@ -1,2 +1,2 @@
 # face_recognition
- Face Recognition Access Control Machine With Python and PYQT
+ Face Recognition Attendance and Access Control Machine Using Python, PYQT, Sqlite , Twilio , Raspberrypi
